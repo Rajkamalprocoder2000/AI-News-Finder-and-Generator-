@@ -2,6 +2,20 @@
 
 AI news finder and generator built with Next.js.
 
+## Project Screenshots
+
+### Desktop
+
+![Desktop screenshot](docs/screenshots/home-desktop.png)
+
+### Tablet
+
+![Tablet screenshot](docs/screenshots/home-tablet.png)
+
+### Mobile
+
+![Mobile screenshot](docs/screenshots/home-mobile.png)
+
 ## Getting Started
 
 Install dependencies:
